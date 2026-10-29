@@ -47,7 +47,6 @@ p {
     text-decoration: underline;
 }
 
-/* Ajustes para celulares */
 @media (max-width: 576px) {
     h1 {
         font-size: 26px;
